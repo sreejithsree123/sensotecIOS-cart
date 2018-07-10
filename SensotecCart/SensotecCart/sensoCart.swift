@@ -11,7 +11,7 @@ import Foundation
 public class sensoCart {
     
     public static func sampleCart() -> String {
-        let myCart = "myCart"
+        let myCart = "myCartvalueeeee"
         return myCart
     }
 }
